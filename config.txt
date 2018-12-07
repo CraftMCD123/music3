@@ -1,0 +1,6 @@
+token= NTIwNzIxMTg1MDc2Njc0NTYw.Dux_Cw.PbMS7VcFXkdc6LuWFHJZ-tvD_m4
+owner= 423396068789714945
+prefix= $
+game= $help
+stayinchannel= true
+songinstatus= true
